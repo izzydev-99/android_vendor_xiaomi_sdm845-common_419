@@ -191,12 +191,10 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@1.1 \
     vendor.qti.hardware.vpp@1.2 \
     btaudio_offload_if \
-    audio.primary.sdm845 \
     sound_trigger.primary.sdm845 \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
     vendor.qti.hardware.bluetooth_audio@2.1-impl \
     libFileMux_proprietary \
-    liba2dpoffload \
     libacdb-fts \
     libacdbrtac \
     libadiertac \
@@ -207,21 +205,16 @@ PRODUCT_PACKAGES += \
     libaudioalsa \
     libaudioparsers \
     libaudioroute_ext \
-    libbatterylistener \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
     libcapiv2svacnn \
     libcapiv2vop \
-    libcomprcapture \
-    libexthwplugin \
     libfastcrc \
     libgcs-calwrapper \
     libgcs-ipc \
     libgcs-osal \
     libgcs \
-    libhdmiedid \
     libhdmipassthru \
-    libhfp \
     liblistenjni \
     liblistensoundmodel2 \
     libmm-hdcpmgr \
@@ -232,8 +225,6 @@ PRODUCT_PACKAGES += \
     libqcodec2 \
     libqtigef \
     libsmwrapper \
-    libsndmonitor \
-    libspkrprot \
     libwfdcodecv4l2_proprietary \
     libwfdcommonutils_proprietary \
     libwfdconfigutils_proprietary \
